@@ -29,6 +29,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
