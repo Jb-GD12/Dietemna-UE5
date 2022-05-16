@@ -28,6 +28,10 @@ int UPlayerComponent::GetDayValue() {
 	return m_dayValue;
 }
 
+void UPlayerComponent::SetDayValue(int Value) {
+	m_dayValue = Value;
+}
+
 int UPlayerComponent::GetTaskValue() {
 	return m_taskValue;
 }

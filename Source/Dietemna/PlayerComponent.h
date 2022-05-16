@@ -26,6 +26,12 @@ public:
 		int GetDayValue();
 
 	/// <summary>
+	/// Set the day value
+	/// </summary>
+	UFUNCTION(BlueprintCallable)
+		void SetDayValue(int Value);
+
+	/// <summary>
 	/// Get the task value
 	/// </summary>
 	UFUNCTION(BlueprintCallable)
