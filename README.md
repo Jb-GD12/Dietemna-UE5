@@ -12,6 +12,9 @@ Click [here](https://lefran6.itch.io/dietemna) to Play the game.
 
 ![My Image](IMG05.png)
 
+Dietemna is a hatmospherique horror game inspired by P.T 
+were you are stuck in a submarine deep don in the ocean 
+
 This project was made in 5 mouths with a team of 5 students 
 
 during this project i learned a lot about unreal 5 and iths optimisation
